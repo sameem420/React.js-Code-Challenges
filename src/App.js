@@ -9,7 +9,8 @@ function App() {
     <div className="App">
       {/* <ColorRenderer /> */}
       {/* <DarkMode /> */}
-      <FormValidator />
+      {/* <FormValidator /> */}
+      
     </div>
   );
 }
