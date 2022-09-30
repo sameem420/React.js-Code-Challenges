@@ -5,6 +5,7 @@ import DarkMode from "./02-dark-mode/DarkMode";
 import FormValidator from "./03-form-validator/FormValidator";
 import DogPics from "./04-dog-pics/DogPics";
 import ScoreKeeper from "./05-score-keeper/ScoreKeeper";
+import ToggleWindowEvent from "./06-add-window-event/ToggleWindowEvent";
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       {/* <DarkMode /> */}
       {/* <FormValidator /> */}
       {/* <DogPics /> */}
-      <ScoreKeeper />
+      {/* <ScoreKeeper /> */}
+      <ToggleWindowEvent />
     </div>
   );
 }
